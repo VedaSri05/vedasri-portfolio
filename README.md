@@ -39,7 +39,7 @@ A personal portfolio website showcasing my skills, projects, experience, educati
 
 - Email: vedasri04@gmail.com
 - GitHub: https://github.com/VedaSri05
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/veda-sri-b-0b747a260/)
+- LinkedIn: https://www.linkedin.com/in/veda-sri-b-0b747a260/
 
 ---
 
